@@ -1,6 +1,7 @@
 [build]
+  base = "Book/"
   command = "hugo"
-  publish = "_book"
+  publish = "_book/"
 
 [build.environment]
   HUGO_VERSION = "0.88.0"
