@@ -1,5 +1,4 @@
 [build]
-  base = "Book/"
   command = "hugo"
   publish = "_book/"
 
