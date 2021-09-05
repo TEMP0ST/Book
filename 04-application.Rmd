@@ -1,6 +1,6 @@
 # Applications
 
-Some _significant_ applications are demonstrated in this chapter.
+Some _significant_ applications and other exciting things are demonstrated in this chapter.
 
 ## Example one
 
